@@ -1,4 +1,4 @@
 // YOUR SCRIPTS GO HERE
 
-$('h1').arctext({radius: 300})
+$('h1').arctext({radius: 600})
 

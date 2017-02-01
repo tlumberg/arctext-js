@@ -5,6 +5,13 @@ h1 {
   text-shadow: 4px 2px 10px blue;
 }
 
+.char5 {
+  color: red;
+}
+
+.char15 {
+  background: yellow;
+}
 
 
 /********************
